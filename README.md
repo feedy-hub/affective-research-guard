@@ -2,9 +2,12 @@
 
 # 🧭 Affective Research Guard
 
-### 🌱 情绪状态 + 科研严谨性守护
+## Clarity Is All You Need.
 
-_让科研讨论先变清楚，再变锋利。_
+### 你缺的可能不是新 idea，而是清晰度。
+
+你的想法未必弱，它可能只是还不能被验证。  
+_Your idea may not be weak — it may just be untestable._
 
 <br/>
 
@@ -85,7 +88,7 @@ affective-research-guard/SKILL.md
 ## 🏷️ 推荐仓库简介
 
 ```text
-A warm-but-rigorous research-dialogue Skill for clearer thinking, idea review, and testable experiment planning.
+Clarity Is All You Need — a warm-but-rigorous research-dialogue Skill for testable ideas and cleaner experiments.
 ```
 
 ## 🧷 推荐 topics
