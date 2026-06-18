@@ -1,96 +1,124 @@
 <div align="center">
 
-# Affective Research Guard
+# 🧭 Affective Research Guard
 
-**情绪状态 + 科研严谨性守护**
+### 🌱 情绪状态 + 科研严谨性守护
 
-A lightweight guide for clearer research conversations.
+_让科研讨论先变清楚，再变锋利。_  
+_Make research conversations calmer, clearer, and more testable._
 
-[中文](#中文介绍) · [English](#english)
+<br/>
 
-![type](https://img.shields.io/badge/type-AI%20Skill-blue)
-![focus](https://img.shields.io/badge/focus-research%20dialogue-green)
-![status](https://img.shields.io/badge/status-ready-purple)
+![type](https://img.shields.io/badge/type-AI%20Skill-8b5cf6?style=for-the-badge)
+![focus](https://img.shields.io/badge/focus-research%20dialogue-22c55e?style=for-the-badge)
+![tone](https://img.shields.io/badge/tone-warm%20%2B%20rigorous-f59e0b?style=for-the-badge)
+![status](https://img.shields.io/badge/status-ready-0ea5e9?style=for-the-badge)
+
+<br/>
+
+[🌸 中文介绍](#-中文介绍) · [🌍 English](#-english) · [📦 Installation](#-installation)
 
 </div>
 
 ---
 
-## 中文介绍
+## 🌸 中文介绍
 
-**Affective Research Guard** 用于科研讨论中的两类常见场景：
+**Affective Research Guard** 是一个面向科研讨论的轻量守护 Skill。  
+它适合在你和 AI 长时间讨论 idea、论文、实验、投稿和技术路线时使用。
 
-1. 讨论变得混乱、焦虑、过载，需要先整理状态和目标。
-2. 讨论 idea、论文、实验、投稿强度，需要更严格地检查贡献、证据和风险。
+它像一个小小的“科研对话整理器”：
 
-它的目标不是让对话变得更复杂，而是让科研交流更清楚：
-
-> 先稳住状态，再压实问题；先明确证据，再评价想法。
-
-### 核心能力
-
-| 能力 | 作用 |
-|---|---|
-| 状态整理 | 把混乱讨论拆成目标、假设、证据、风险和下一步 |
-| Idea 审查 | 判断问题是否真实、贡献是否清楚、创新是否站得住 |
-| 实验压实 | 将结论转化为可验证指标、baseline 和消融实验 |
-| 审稿预演 | 提前暴露最可能被质疑的地方 |
-
-### 适合使用
-
-- 科研 idea 讨论
-- 论文故事线梳理
-- 实验设计与指标定义
-- 投稿前风险检查
-- 长时间科研对话中的思路整理
+> 🫶 先照顾人的状态，避免越聊越乱；  
+> 🔬 再用严格标准检查 idea、证据、实验和结论。
 
 ---
 
-## English
+## 🧸 它解决什么？
 
-**Affective Research Guard** is a compact guide for research-oriented conversations.
+| 场景 | 常见问题 | 它会帮助你 |
+|---|---|---|
+| 🌀 思路混乱 | idea、实验、故事线混在一起 | 重新拆成目标、假设、证据、风险和下一步 |
+| 💡 评价想法 | AI 只会说“很有潜力” | 从贡献、可验证性和审稿风险重新判断 |
+| 🧪 设计实验 | 实验很多，但证明不了核心命题 | 找到最小、最关键、最能支撑结论的验证路径 |
+| 📝 写论文 | 故事线顺，但问题意识不稳 | 检查问题定义、方法必要性和结论边界 |
+| ⏰ 投稿前 | 只看优点，忽略负结果风险 | 提前模拟审稿人可能的质疑 |
 
-It is designed for two situations:
+---
 
-1. The conversation becomes messy, overloaded, or unclear.
-2. A research idea, paper story, experiment plan, or submission claim needs stricter review.
+## 🧩 核心能力
 
-Core idea:
+| 模块 | 作用 |
+|---|---|
+| 🧭 状态整理 | 把混乱讨论整理成可推进的结构 |
+| 🔍 Idea 审查 | 判断问题是否真实、贡献是否清楚、创新是否站得住 |
+| 📏 目标压实 | 把模糊目标变成可衡量、可验证、可验收的条件 |
+| 🧪 实验校准 | 让实验真正服务于核心命题，而不是堆数量 |
+| 🧑‍⚖️ 审稿预演 | 提前暴露最可能被质疑的地方 |
 
-> Stabilize the discussion first. Then evaluate the research claim.
+---
 
-### Features
+## 🍃 使用前后对比
+
+| Before | After |
+|---|---|
+| “这个 idea 感觉挺好。” | “它的贡献点、风险和最小验证实验分别是什么？” |
+| “实验要不要多做几个？” | “哪个实验能直接证明核心命题？” |
+| “我现在有点乱。” | “先拆目标、假设、证据和下一步。” |
+| “能不能冲顶会？” | “先看问题定义、创新边界、baseline 风险和证据强度。” |
+
+---
+
+## 🌍 English
+
+**Affective Research Guard** is a lightweight Skill for research-oriented conversations.
+
+It helps keep long research discussions both human-aware and academically rigorous:
+
+> 🫶 Notice confusion or overload first.  
+> 🔬 Then review the research claim with evidence, risks, and testable next steps.
+
+### Cute but serious features
 
 | Feature | Purpose |
 |---|---|
-| State structuring | Turns messy discussion into goals, assumptions, evidence, risks, and next steps |
-| Idea review | Checks whether the problem, contribution, and novelty are clear |
-| Experiment grounding | Connects claims to metrics, baselines, and ablations |
-| Reviewer preview | Surfaces likely reviewer concerns before submission |
+| 🧭 State structuring | Turns messy discussion into goals, assumptions, evidence, risks, and next steps |
+| 🔍 Idea review | Checks whether the problem, contribution, and novelty are clear |
+| 📏 Goal grounding | Converts vague goals into measurable and verifiable conditions |
+| 🧪 Experiment calibration | Links claims to metrics, baselines, and ablations |
+| 🧑‍⚖️ Reviewer preview | Surfaces likely reviewer concerns before submission |
 
 ---
 
-## Installation
+## 📦 Installation
 
-This repository is intended to contain:
+This repository is intended to contain two install formats:
 
 ```text
 affective-research-guard.skill
 affective-research-guard/SKILL.md
 ```
 
-You can use the single-file version or the folder-based `SKILL.md` version depending on your platform.
+Use the single-file version or the folder-based `SKILL.md` version depending on your platform.
 
 ---
 
-## Suggested repository description
+## 🏷️ Suggested repository description
 
 ```text
-A research-dialogue guard Skill for clearer thinking, rigorous idea review, and testable experiment planning.
+A warm-but-rigorous research-dialogue Skill for clearer thinking, idea review, and testable experiment planning.
 ```
 
-## Suggested topics
+## 🧷 Suggested topics
 
 ```text
 ai-skill, research-assistant, academic-writing, idea-review, experiment-design, dialogue-guard
 ```
+
+---
+
+<div align="center">
+
+🌱 _For researchers who need both clarity and courage._
+
+</div>
