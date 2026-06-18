@@ -2,9 +2,12 @@
 
 # 🧭 Affective Research Guard
 
-### 🌱 Affective State + Research Rigor Guard
+## Clarity Is All You Need.
 
-_Make research conversations calmer, clearer, and more testable._
+### Your idea may not be weak — it may just be untestable.
+
+你缺的可能不是新 idea，而是清晰度。  
+你的想法未必弱，它可能只是还不能被验证。
 
 <br/>
 
@@ -85,7 +88,7 @@ Use the single-file version or the folder-based `SKILL.md` version depending on 
 ## 🏷️ Suggested repository description
 
 ```text
-A warm-but-rigorous research-dialogue Skill for clearer thinking, idea review, and testable experiment planning.
+Clarity Is All You Need — a warm-but-rigorous research-dialogue Skill for testable ideas and cleaner experiments.
 ```
 
 ## 🧷 Suggested topics
