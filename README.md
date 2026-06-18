@@ -4,8 +4,12 @@
 
 ### 🌱 情绪状态 + 科研严谨性守护
 
-_让科研讨论先变清楚，再变锋利。_  
-_Make research conversations calmer, clearer, and more testable._
+_让科研讨论先变清楚，再变锋利。_
+
+<br/>
+
+[![中文](https://img.shields.io/badge/中文-当前语言-ffb4c8?style=for-the-badge)](./README.md)
+[![English](https://img.shields.io/badge/English-Switch-94a3b8?style=for-the-badge)](./README.en.md)
 
 <br/>
 
@@ -14,15 +18,11 @@ _Make research conversations calmer, clearer, and more testable._
 ![tone](https://img.shields.io/badge/tone-warm%20%2B%20rigorous-f59e0b?style=for-the-badge)
 ![status](https://img.shields.io/badge/status-ready-0ea5e9?style=for-the-badge)
 
-<br/>
-
-[🌸 中文介绍](#-中文介绍) · [🌍 English](#-english) · [📦 Installation](#-installation)
-
 </div>
 
 ---
 
-## 🌸 中文介绍
+## 🌸 这个 Skill 是什么？
 
 **Affective Research Guard** 是一个面向科研讨论的轻量守护 Skill。  
 它适合在你和 AI 长时间讨论 idea、论文、实验、投稿和技术路线时使用。
@@ -69,47 +69,26 @@ _Make research conversations calmer, clearer, and more testable._
 
 ---
 
-## 🌍 English
+## 📦 安装方式
 
-**Affective Research Guard** is a lightweight Skill for research-oriented conversations.
-
-It helps keep long research discussions both human-aware and academically rigorous:
-
-> 🫶 Notice confusion or overload first.  
-> 🔬 Then review the research claim with evidence, risks, and testable next steps.
-
-### Cute but serious features
-
-| Feature | Purpose |
-|---|---|
-| 🧭 State structuring | Turns messy discussion into goals, assumptions, evidence, risks, and next steps |
-| 🔍 Idea review | Checks whether the problem, contribution, and novelty are clear |
-| 📏 Goal grounding | Converts vague goals into measurable and verifiable conditions |
-| 🧪 Experiment calibration | Links claims to metrics, baselines, and ablations |
-| 🧑‍⚖️ Reviewer preview | Surfaces likely reviewer concerns before submission |
-
----
-
-## 📦 Installation
-
-This repository is intended to contain two install formats:
+本仓库计划提供两种安装形式：
 
 ```text
 affective-research-guard.skill
 affective-research-guard/SKILL.md
 ```
 
-Use the single-file version or the folder-based `SKILL.md` version depending on your platform.
+根据你的平台选择单文件版或 `SKILL.md` 文件夹版。
 
 ---
 
-## 🏷️ Suggested repository description
+## 🏷️ 推荐仓库简介
 
 ```text
 A warm-but-rigorous research-dialogue Skill for clearer thinking, idea review, and testable experiment planning.
 ```
 
-## 🧷 Suggested topics
+## 🧷 推荐 topics
 
 ```text
 ai-skill, research-assistant, academic-writing, idea-review, experiment-design, dialogue-guard
